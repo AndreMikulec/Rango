@@ -32,3 +32,4 @@ _ReSharper*/
 packages/
 ^\.Rproj\.user$
 NOTES.txt
+\.RHistory
